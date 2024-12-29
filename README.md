@@ -1,4 +1,4 @@
-# 🚗 Car Garage Random Generator
+# Car Garage Random Generator
 
 ## **Project Overview**
 The **Car Garage Random Generator** is a C++ program designed to simulate a virtual car garage containing 100 randomly generated cars. Each car has unique attributes, including brand, model, color, and speed. The program organizes this data into structured files, enabling easy storage, retrieval, and analysis. This project demonstrates essential programming concepts such as randomization, file handling, error checking, and data sorting in a practical and engaging way.
@@ -7,20 +7,20 @@ The **Car Garage Random Generator** is a C++ program designed to simulate a virt
 
 ## **Features**
 
-### 🔧 **Random Car Generation**
+### **Random Car Generation**
 - Creates 100 cars with randomized attributes:
   - **Brand**: Loaded from a predefined `brands.txt` file.
   - **Model**: Loaded from a predefined `models.txt` file.
   - **Color**: Loaded from a predefined `colors.txt` file.
   - **Speed**: Randomly assigned between `0` and `150`.
 
-### 💻 **Command-Line Input**
+### **Command-Line Input**
 - Accepts three input files via command-line arguments in the order:
   1. `brands.txt`
   2. `colors.txt`
   3. `models.txt`
 
-### 📂 **Organized File Outputs**
+### **Organized File Outputs**
 - **Unsorted Data**: All car data stored in `unsortedData.txt`.
 - **Sorted Data**: Cars can be sorted by:
   - Brand
@@ -35,7 +35,7 @@ The **Car Garage Random Generator** is a C++ program designed to simulate a virt
 - **Summary Statistics**:
   - `garageStats.txt` summarizes the total count of cars, brands, models, and colors.
 
-### ✅ **Error Handling**
+### **Error Handling**
 - Ensures proper execution by validating:
   - Correct number of arguments.
   - Valid and accessible input files.
@@ -59,7 +59,7 @@ The **Car Garage Random Generator** is a C++ program designed to simulate a virt
 
 ---
 
-### 🛠 **Core Functionalities**
+### **Core Functionalities**
 1. **Input Handling**:
    - Reads data from `brands.txt`, `colors.txt`, and `models.txt`.
 2. **Garage Creation**:
