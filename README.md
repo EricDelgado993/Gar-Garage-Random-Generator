@@ -68,7 +68,3 @@ The **Car Garage Random Generator** is a C++ program designed to simulate a virt
 4. **Output Generation**:
    - Creates category-based folders and files for structured storage.
    - Generates a statistics summary in `garageStats.txt`.
-
----
-
-This project serves as a great introduction to combining multiple programming concepts into a practical and real-world application.
