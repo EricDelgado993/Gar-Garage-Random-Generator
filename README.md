@@ -5,6 +5,22 @@ The **Car Garage Random Generator** is a C++ program designed to simulate a virt
 
 ---
 
+## **Key Components**
+
+### 📁 **Header Files**
+1. **Car.h**:
+   - Structures:
+     - `Car`: Represents a car with brand, model, color, and speed.
+     - `Output`: Contains file paths for output files.
+2. **CarFunctions.h**:
+   - Declares functions for:
+     - Reading input data.
+     - Generating random cars.
+     - Writing unsorted and sorted data.
+     - Generating organized output files.
+
+---
+
 ## **Features**
 
 ### **Random Car Generation**
@@ -40,22 +56,6 @@ The **Car Garage Random Generator** is a C++ program designed to simulate a virt
   - Correct number of arguments.
   - Valid and accessible input files.
   - Non-empty data in the input files.
-
----
-
-## **Key Components**
-
-### 📁 **Header Files**
-1. **Car.h**:
-   - Structures:
-     - `Car`: Represents a car with brand, model, color, and speed.
-     - `Output`: Contains file paths for output files.
-2. **CarFunctions.h**:
-   - Declares functions for:
-     - Reading input data.
-     - Generating random cars.
-     - Writing unsorted and sorted data.
-     - Generating organized output files.
 
 ---
 
