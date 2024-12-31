@@ -1,0 +1,40 @@
+Garage Stats
+----------------------------
+Num of Cars in Garage: 100
+
+Brand Counts
+Tesla: 6
+Dodge: 6
+Buick: 10
+Ford: 18
+Lincoln: 11
+Chevrolet: 12
+Chrysler: 9
+Lexus: 12
+Honda: 5
+Audi: 11
+
+Color Counts
+Yellow: 7
+Orange: 9
+Red: 7
+Pink: 17
+Violet: 15
+Blue: 5
+Green: 11
+Brown: 6
+Gray: 11
+Black: 12
+
+Model Counts
+Prius: 10
+Supra: 13
+Model3: 10
+Corvette: 12
+Lamborghini: 11
+Bugatti: 11
+Pagani: 6
+Focus: 9
+Wrangler: 9
+Mustang: 9
+----------------------------

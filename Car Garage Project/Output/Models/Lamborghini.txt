@@ -1,0 +1,88 @@
+Car #1
+------------------------------------------
+Brand: Lexus
+Model: Lamborghini
+Color: Orange
+Speed: 46
+------------------------------------------
+
+Car #9
+------------------------------------------
+Brand: Dodge
+Model: Lamborghini
+Color: Violet
+Speed: 108
+------------------------------------------
+
+Car #27
+------------------------------------------
+Brand: Ford
+Model: Lamborghini
+Color: Orange
+Speed: 39
+------------------------------------------
+
+Car #42
+------------------------------------------
+Brand: Lexus
+Model: Lamborghini
+Color: Blue
+Speed: 84
+------------------------------------------
+
+Car #48
+------------------------------------------
+Brand: Tesla
+Model: Lamborghini
+Color: Violet
+Speed: 86
+------------------------------------------
+
+Car #71
+------------------------------------------
+Brand: Chevrolet
+Model: Lamborghini
+Color: Gray
+Speed: 134
+------------------------------------------
+
+Car #72
+------------------------------------------
+Brand: Buick
+Model: Lamborghini
+Color: Black
+Speed: 19
+------------------------------------------
+
+Car #76
+------------------------------------------
+Brand: Buick
+Model: Lamborghini
+Color: Pink
+Speed: 97
+------------------------------------------
+
+Car #78
+------------------------------------------
+Brand: Lexus
+Model: Lamborghini
+Color: Black
+Speed: 132
+------------------------------------------
+
+Car #80
+------------------------------------------
+Brand: Lincoln
+Model: Lamborghini
+Color: Violet
+Speed: 127
+------------------------------------------
+
+Car #83
+------------------------------------------
+Brand: Buick
+Model: Lamborghini
+Color: Yellow
+Speed: 6
+------------------------------------------
+
