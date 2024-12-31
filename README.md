@@ -5,7 +5,7 @@ The **Car Garage Random Generator** is a C++ program designed to simulate a virt
 
 ---
 
-### 📁 **Implementation Files**
+## 📁 **Implementation Files**
 1. [Car.h](https://github.com/EricDelgado993/Gar-Garage-Random-Generator/blob/main/Car%20Garage%20Project/Car.h):
    - Structures:
      - `Car`: Represents a car with brand, model, color, and speed.
