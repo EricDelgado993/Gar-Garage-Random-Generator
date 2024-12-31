@@ -16,7 +16,7 @@ The **Car Garage Random Generator** is a C++ program designed to simulate a virt
      - Generating random cars.
      - Writing unsorted and sorted data.
      - Generating organized output files.
-3. [Executable Program](https://github.com/EricDelgado993/Gar-Garage-Random-Generator/blob/main/Car%20Garage%20Project/EricDelgadoProject1.cpp)
+3. [Executable_Program.cpp](https://github.com/EricDelgado993/Gar-Garage-Random-Generator/blob/main/Car%20Garage%20Project/EricDelgadoProject1.cpp)
 
 ---
 
